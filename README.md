@@ -48,9 +48,9 @@ cd dvd-rental-system
 ```
 
 #### 2. Set Up the Backend
-1. Navigate to the `dvdrentalsystem` directory:
+1. Navigate to the `server` directory:
    ```bash
-   cd dvdrentalsystem
+   cd server
    ```
 2. Configure the `application.properties` file for your PostgreSQL setup.
 3. Build and run the server:
@@ -60,9 +60,9 @@ cd dvd-rental-system
    ```
 
 #### 3. Set Up the Frontend
-1. Navigate to the `dvd-rental-system` directory:
+1. Navigate to the `client` directory:
    ```bash
-   cd ../dvd-rental-system
+   cd ../client
    ```
 2. Install dependencies:
    ```bash
@@ -82,8 +82,8 @@ cd dvd-rental-system
 ## 📂 Folder Structure
 ```
 .
-├── dvd-rental-system/               # React frontend
-├── dvdrentalsystem/               # Spring Boot backend
+├── client/               # React frontend
+├── server/               # Spring Boot backend
 └── README.md             # Project documentation
 ```
 
