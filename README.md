@@ -130,7 +130,7 @@ cd dvd-rental-system
 
 ---
 
-## 🤝 Contributors
+## 🤝 Contributors ©️
 - **Noam Radeanu** [GitHub Profile](https://github.com/noamradiano)
 - **Shon Salomonovitch** [GitHub Profile](https://github.com/shonsalomonovitch)
 - **Tal Danon** [GitHub Profile](https://github.com/TalDanon98) 
