@@ -1,4 +1,4 @@
-# DVD Rental System
+# DVD Rental System 🎬
 <img width="90%" alt="Logo" src="https://github.com/user-attachments/assets/d3552cdf-d208-45c9-85e5-ae7cd9be62a2" />
 
 ## 📖 Description
