@@ -84,7 +84,7 @@ Ensure you have the following installed on your system:
 ### Steps
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/noamradiano/dvd-rental-system.git
+git clone https://github.com/shonsalomonovitch/dvd-rental-system.git
 cd dvd-rental-system
 ```
 
